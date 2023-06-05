@@ -99,7 +99,7 @@ def window_start(name):
 
 
 def main():
-    figure(window_start("project"))
+    figure(window_start("Project"))
 
 
 if __name__ == '__main__':
